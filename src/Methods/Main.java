@@ -1,3 +1,5 @@
+package Methods;
+
 public class Main {
 
 	public static void displayHighScorePosition(String name, int position) {

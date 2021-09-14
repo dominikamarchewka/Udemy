@@ -1,3 +1,5 @@
+package Methods;
+
 import java.text.DecimalFormat;
 
 public class DecimalComparator {

@@ -1,3 +1,5 @@
+package Methods;
+
 public class NumberPalindrome {
     public static boolean isPalindrome (int number){
         if (number < 0){

@@ -1,3 +1,5 @@
+package Methods;
+
 public class MegaBytesKilo {
     public static void printMegaBytesAndKiloBytes(int kiloBytes){
         if(kiloBytes < 0){

@@ -1,3 +1,5 @@
+package Methods;
+
 public class SecondsAndMinutes {
     public static void getDurationString (int seconds, int minutes){
         if(seconds < 0 || seconds > 59 || minutes < 0){

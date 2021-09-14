@@ -1,3 +1,5 @@
+package Methods;
+
 public class SwitchDay {
     public static void printDayOfTheWeek(int number){
         switch (number){

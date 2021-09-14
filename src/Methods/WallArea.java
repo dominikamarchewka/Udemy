@@ -1,3 +1,5 @@
+package Methods;
+
 public class WallArea {
    private double width;
    private double height;

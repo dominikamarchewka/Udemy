@@ -1,3 +1,5 @@
+package Methods;
+
 public class SumDigits {
     public static int sumDigits (int x){
         int sum = 0;
